@@ -18,3 +18,26 @@ Flag:
 ```
 picoCTF{b1scu1ts_4nd_gr4vy_d6969390}
 ```
+
+
+*****Alternate method:*****
+
+Since this file is an executable file we run it.
+![image](https://github.com/user-attachments/assets/449fcf09-66c1-4770-8709-7a8eb5e0fe12)
+
+```
+chmod +x warm
+./warm
+```
+
+Upon this we get this prompt:
+
+Hello user! Pass me a -h to learn what I can do!
+
+```
+./warm -h
+```
+
+Voila we get the flag:
+
+Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_d6969390}
