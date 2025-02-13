@@ -3,6 +3,7 @@ I downloaded the file via 'wget' and used 'exiftool' to see if there were any hi
 ![image](https://github.com/user-attachments/assets/a1c743c5-05b0-4f4c-bd27-e1fa117f9273)
 
 Didnt find anythin useful here.
+
 Using strings:
 
 ```
