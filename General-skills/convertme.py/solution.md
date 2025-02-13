@@ -2,7 +2,7 @@ Description:
 Run the Python script and convert the given number from decimal to binary to get the flag
 
 
-***Proceduer:***
+****Proceduer:****
 1) Download the file from the link provided. Use 'wget' or just download on your VM.
 
 2) Run the file using python or python3:
